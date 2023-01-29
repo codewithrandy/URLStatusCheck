@@ -10,4 +10,5 @@ Offline webpages are logged to a csv spreedsheet and include the status code err
 - Requests
 
 #Screenshot
+
 <img src="screenshots/status-check-feat.png">
