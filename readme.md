@@ -3,11 +3,11 @@ Allows website administrators to manage a list of URL addresses and then determi
 
 Offline webpages are logged to a csv spreedsheet and include the status code error and timestamp.
 
-#Tech
+# Tech
 - Python
 - Tkinter
 - Pandas
 - Requests
 
-#Screenshot
-<img src="screenshots/status-check-feat.png">
+# Screenshot
+<img src="screenshots/url-status-check-feat.png">
